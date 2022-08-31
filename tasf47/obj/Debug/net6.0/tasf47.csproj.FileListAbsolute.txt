@@ -1,0 +1,15 @@
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\bin\Debug\net6.0\tasf47.exe
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\bin\Debug\net6.0\tasf47.deps.json
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\bin\Debug\net6.0\tasf47.runtimeconfig.json
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\bin\Debug\net6.0\tasf47.dll
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\bin\Debug\net6.0\tasf47.pdb
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.csproj.AssemblyReference.cache
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.AssemblyInfoInputs.cache
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.AssemblyInfo.cs
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.csproj.CoreCompileInputs.cache
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.dll
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\refint\tasf47.dll
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.pdb
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\tasf47.genruntimeconfig.cache
+C:\Users\павел\Desktop\2826\Seminar7\tasf47\obj\Debug\net6.0\ref\tasf47.dll
